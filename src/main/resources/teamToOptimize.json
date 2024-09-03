@@ -1,0 +1,166 @@
+{
+  "quarterbacks": [
+    {
+      "name": "Patrick Mahomes",
+      "team": "Kansas City Chiefs",
+      "position": "Quarterback",
+      "passingYards": 4800,
+      "passingTouchdowns": 40,
+      "interceptions": 8,
+      "rushingYards": 300,
+      "rushingTouchdowns": 2,
+      "fantasyPoints": 400
+    },
+    {
+      "name": "Josh Allen",
+      "team": "Buffalo Bills",
+      "position": "Quarterback",
+      "passingYards": 4500,
+      "passingTouchdowns": 35,
+      "interceptions": 10,
+      "rushingYards": 500,
+      "rushingTouchdowns": 6,
+      "fantasyPoints": 390
+    }
+  ],
+  "runningBacks": [
+    {
+      "name": "Christian McCaffrey",
+      "team": "San Francisco 49ers",
+      "position": "Running Back",
+      "rushingYards": 1200,
+      "rushingTouchdowns": 10,
+      "receptions": 80,
+      "receivingYards": 750,
+      "receivingTouchdowns": 6,
+      "fantasyPoints": 350
+    },
+    {
+      "name": "Austin Ekeler",
+      "team": "Los Angeles Chargers",
+      "position": "Running Back",
+      "rushingYards": 950,
+      "rushingTouchdowns": 12,
+      "receptions": 90,
+      "receivingYards": 700,
+      "receivingTouchdowns": 8,
+      "fantasyPoints": 345
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "Tennessee Titans",
+      "position": "Running Back",
+      "rushingYards": 1500,
+      "rushingTouchdowns": 14,
+      "receptions": 20,
+      "receivingYards": 250,
+      "receivingTouchdowns": 2,
+      "fantasyPoints": 340
+    },
+    {
+      "name": "Bijan Robinson",
+      "team": "Atlanta Falcons",
+      "position": "Running Back",
+      "rushingYards": 1100,
+      "rushingTouchdowns": 9,
+      "receptions": 65,
+      "receivingYards": 600,
+      "receivingTouchdowns": 5,
+      "fantasyPoints": 330
+    }
+  ],
+  "wideReceivers": [
+    {
+      "name": "Justin Jefferson",
+      "team": "Minnesota Vikings",
+      "position": "Wide Receiver",
+      "receptions": 110,
+      "receivingYards": 1600,
+      "receivingTouchdowns": 10,
+      "fantasyPoints": 360
+    },
+    {
+      "name": "Davante Adams",
+      "team": "Las Vegas Raiders",
+      "position": "Wide Receiver",
+      "receptions": 100,
+      "receivingYards": 1400,
+      "receivingTouchdowns": 12,
+      "fantasyPoints": 350
+    },
+    {
+      "name": "Tyreek Hill",
+      "team": "Miami Dolphins",
+      "position": "Wide Receiver",
+      "receptions": 105,
+      "receivingYards": 1550,
+      "receivingTouchdowns": 11,
+      "fantasyPoints": 340
+    },
+    {
+      "name": "Stefon Diggs",
+      "team": "Buffalo Bills",
+      "position": "Wide Receiver",
+      "receptions": 102,
+      "receivingYards": 1350,
+      "receivingTouchdowns": 10,
+      "fantasyPoints": 320
+    }
+  ],
+  "tightEnds": [
+    {
+      "name": "Travis Kelce",
+      "team": "Kansas City Chiefs",
+      "position": "Tight End",
+      "receptions": 105,
+      "receivingYards": 1300,
+      "receivingTouchdowns": 10,
+      "fantasyPoints": 320
+    },
+    {
+      "name": "George Kittle",
+      "team": "San Francisco 49ers",
+      "position": "Tight End",
+      "receptions": 75,
+      "receivingYards": 950,
+      "receivingTouchdowns": 8,
+      "fantasyPoints": 250
+    }
+  ],
+  "kickers": [
+    {
+      "name": "Justin Tucker",
+      "team": "Baltimore Ravens",
+      "position": "Kicker",
+      "fieldGoalsMade": 35,
+      "extraPointsMade": 40,
+      "fantasyPoints": 150
+    },
+    {
+      "name": "Harrison Butker",
+      "team": "Kansas City Chiefs",
+      "position": "Kicker",
+      "fieldGoalsMade": 30,
+      "extraPointsMade": 45,
+      "fantasyPoints": 140
+    }
+  ],
+  "defenseSpecialTeams": [
+    {
+      "team": "San Francisco 49ers",
+      "sacks": 48,
+      "interceptions": 18,
+      "fumblesRecovered": 12,
+      "touchdowns": 4,
+      "fantasyPoints": 170
+    },
+    {
+      "team": "Buffalo Bills",
+      "sacks": 45,
+      "interceptions": 16,
+      "fumblesRecovered": 10,
+      "touchdowns": 3,
+      "fantasyPoints": 160
+    }
+  ]
+}
